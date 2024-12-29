@@ -1,6 +1,6 @@
 # Haskell-Programming
 ## Description
-Exploring Haskell
+Exploring Haskell---it’s weird because it’s different
 ### Installation Instructions for Windows:  
 1. Download and run the GHCup installer from the official website:  
    [GHCup Installation Guide](https://www.haskell.org/ghcup/).

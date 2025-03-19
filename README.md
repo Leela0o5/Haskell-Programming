@@ -7,7 +7,7 @@ Exploring Haskell---it’s weird because it’s different
 2. Follow the on-screen instructions to complete the installation.
    
 ## Running the Code
-### Option 1: Running in GHCI (Interactive Mode)
+### Running in GHCI (Interactive Mode)
 > *Note*: A `main` function is not required.  
 
 #### In GHCI Terminal

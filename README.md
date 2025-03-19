@@ -18,13 +18,5 @@ Exploring Haskell---it’s weird because it’s different
 :l file_path
 ```
 
-### Option 2 (Compile and execute) (Main Function needed)
-### Compile
-```
-ghc <file_name>.hs
-```
-### Run
-```
-./<file_name>
-```
+
 
